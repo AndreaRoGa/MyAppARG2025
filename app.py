@@ -226,3 +226,4 @@ if "Prediccion" in selected_page:
     ## Predicción de un Crédito
     Capture los datos""")
  
+ 
